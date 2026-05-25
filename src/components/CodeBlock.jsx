@@ -28,7 +28,7 @@ const CodeBlock = () => {
         {"    "}
         <span className="text-[#16f2b3]">'React'</span>,{" "}
 
-        <span className="text-[#16f2b3]">'Express.js'</span>,
+        <span className="text-[#16f2b3]">'Express.js'</span>,{" "}
           <span className="text-[#16f2b3]">'Node.js'</span>,{" "}
         <br />
         {"    "}
