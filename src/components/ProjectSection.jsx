@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "FoodKalash",
+      title: "ThinkFashion",
       description:
-        "A full-stack food delivery website with menu browsing, order placement, and donation features, ensuring a seamless user experience.",
+        "A full-stack E-commerce website with menu browsing, order, and Add to cart features, ensuring a seamless user experience.",
       link: "#",
     },
    
